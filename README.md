@@ -1,2 +1,2 @@
-# C-Programs-
+# C-Programs
 Creating daily program activities 
