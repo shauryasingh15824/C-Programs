@@ -39,7 +39,7 @@
             return 0;
         } */
 
-             int main(){
+          /*   int main(){
             int item =60;
             float cost_of_per_item = 9.85;
             float total_cost = item*cost_of_per_item;
@@ -47,5 +47,22 @@
             printf("item: %d\n",item);
             printf("cost_of_per_item: %c%.2f\n", currency, cost_of_per_item);  
             printf("total_cost: %c%.2f", currency, total_cost);
+            return 0;
+        } */
+
+
+
+
+
+
+
+        int main(){
+            int total_item =50;
+            float per_item_cost =53.2;
+            float total_cost =total_item*per_item_cost;
+            char dollar ='$';
+            printf("total_item: %d\n", total_item);
+            printf("per_item_cost: %c%.2f\n", per_item_cost, dollar);
+            printf("total_cost: %c%.2f",total_cost);
             return 0;
         }
